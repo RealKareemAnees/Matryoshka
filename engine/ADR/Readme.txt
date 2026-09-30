@@ -1,0 +1,1 @@
+htis ADR is meant foe implementation specific decisions, otherwise Architectural decisions are to be documented in root ADRs folder.
