@@ -1,5 +1,5 @@
 import { Test, TestingModule } from '@nestjs/testing';
-import { ProcessConstructioFileInteractor } from '../src/interactors/process-constructio-file.interactor.js';
+import { ProcessConstructioFileInteractor } from '../src/interactors/process-construction-file.interactor.js';
 
 describe('ProcessConstructioFileInteractor', () => {
   let interactor: ProcessConstructioFileInteractor;
